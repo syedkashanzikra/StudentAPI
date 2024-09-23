@@ -32,7 +32,7 @@ This repository contains a simple **ASP.NET Core Web API** project that demonstr
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/student-crud-api.git
+   git clone https://github.com/syedkashanzikra/StudentAPI.git
    cd student-crud-api
    ```
 
